@@ -1,0 +1,116 @@
+body {
+  font-family: helvetica;
+  background-image: url("https://image.freepik.com/free-photo/white-grey-marble-texture-background-natural-tile-stone-floor_38607-501.jpg");
+  background-size: cover;
+  color: white;
+}
+#astimg{
+  width: 100px;
+}
+#leftalbum{
+  color: black;
+  border: solid black;
+  border-radius: 3px;
+  border-width: 1px;
+  padding-left: 2px;
+  font-size: 30px;
+  padding-left: 17px;
+  float: left;
+  width: 400px;
+  padding-right: 10px;
+  margin-left: 10px;
+}
+#centeralbum{
+  color: black;
+  border: solid black;
+  border-radius: 3px;
+  border-width: 1px;
+  padding-left: 2px;
+  font-size: 30px;
+  padding-left: 17px;
+  float: left;
+  color: white;
+  width: 400px;
+  padding-right: 10px;
+  margin-left: 10px;
+  background-image: url("https://png.pngtree.com/thumb_back/fw800/back_our/20190622/ourmid/pngtree-black-minimalist-atmospheric-marble-texture-banner-background-image_218352.jpg");
+}
+#rightalbum{
+  color: black;
+  border: solid black;
+  border-radius: 3px;
+  border-width: 1px;
+  padding-left: 2px;
+  font-size: 30px;
+  padding-left: 17px;
+  float: left;
+  color: black;
+  width: 400px;
+  padding-right: 10px;
+  margin-left: 10px;
+  background-image: url("https://image.freepik.com/free-photo/pink-marble-texture-background_38607-375.jpg");  
+}
+#rightalbum1{
+  color: black;
+  border: solid black;
+  border-radius: 3px;
+  border-width: 1px;
+  padding-left: 2px;
+  font-size: 30px;
+  padding-left: 17px;
+  float: left;
+  margin-top: 10px;
+  color: black;
+  width: 400px;
+  padding-right: 10px;
+  margin-left: 10px;
+  background-image: url("https://image.freepik.com/free-photo/pink-marble-texture-background_38607-375.jpg");  
+}
+#formalbum{
+  color: black;
+  border: solid black;
+  border-radius: 3px;
+  border-width: 1px;
+  padding-left: 2px;
+  font-size: 25px;
+  padding-left: 17px;
+  float: left;
+  color: black;
+  width: 400px;
+  margin-top: 10px;
+  padding-right: 10px;
+  margin-left: 10px;
+  background-image: url("https://image.freepik.com/free-photo/pink-marble-texture-background_38607-375.jpg");  
+}
+.imgunder{
+  margin-left: 90px;
+}
+.menu {
+  padding: 10px 0px 30px 700px;
+  text-align: center;
+  margin-left: 120px;
+  font-size: 40px;
+  margin-top: -60px;
+  border-radius: 4px;
+  opacity: 0.8;
+  background: url("https://lh3.googleusercontent.com/proxy/RQaZpTh-t5FYjcdBT-odSPKZMXLO07ahdu1u4JSKzGS2vw9inuuijyjRjoAnPs4r_WlEwPXT-H3EuprrHa_V1Ala8dFrkqsXGIanObRHlXSQ36xBWgV6rhKsIdU");
+}
+#mainmain{
+  color: #2980B9;
+  font-size: 90px;
+  text-align: center;
+  height: 40px;
+}
+.myname{
+  color: #2980B9;
+}
+.textarea {
+  width: 100%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+}
